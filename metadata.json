@@ -1,0 +1,6 @@
+{
+  "name": "電馭叛客 2077 任務推進與分歧路線圖",
+  "description": "電馭叛客 2077 與自由幻局的全任務進度追蹤器，支援互動式流程圖、階層式清單、關鍵人物情報錄、專屬載具庫與全結局推導計算。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
